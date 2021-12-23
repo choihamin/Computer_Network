@@ -3,7 +3,7 @@
 This repository is the storage of the assignments of **Computer Network Course** in the Korea Univ.
 
 ----
-![sample1](https://user-images.githubusercontent.com/47838599/147194055-7bbea93c-6060-4e21-9c41-5dc4f4687f2e.png)
+![sample1](https://user-images.githubusercontent.com/47838599/147202895-2c7e3439-13a0-494b-8e06-21c82319bd06.png)
 
 1. VM1 has an interface which is directly connected with VM2.
 2. VM2 has 3 interfaces which are respectively coneected with VM1, VM2, VMX
